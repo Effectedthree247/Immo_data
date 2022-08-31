@@ -1,2 +1,4 @@
 # Immo_data
-Zet elk adres op zimmo.be met prijs en link in een excelbestand.
+
+Haalt automatisch data van zimmo.be en zet het in een excelbestand.
+
